@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.web.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Homepage.homeController">
+   <children>
+      <BorderPane id="home_border" layoutX="-1.0" layoutY="1.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="5.0">
+         <top>
+            <GridPane fx:id="gridpane_btn_top" style="-fx-background-color: #CCCCCC;" BorderPane.alignment="CENTER">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Button fx:id="btn_err_chack" mnemonicParsing="false" onAction="#btn_err_chack_action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="检测故障" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <Button fx:id="btn_con" mnemonicParsing="false" onAction="#btn_con_Action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="测试数据库连接" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                  <Button fx:id="btn_server" mnemonicParsing="false" onAction="#btn_server_action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="UdpServer" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                  <Button fx:id="btn_client" mnemonicParsing="false" onAction="#btn_client_action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="UdpClient" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+                  <Pane GridPane.columnIndex="5" GridPane.rowIndex="1">
+                     <children>
+                        <Button fx:id="btn_help" alignment="CENTER" contentDisplay="CENTER" layoutX="60.0" layoutY="4.0" mnemonicParsing="false" onAction="#btn_help_action" text="问题" />
+                     </children>
+                  </Pane>
+                  <Button fx:id="btn_jiance" mnemonicParsing="false" onAction="#btn_home_action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="测试" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+               </children>
+            </GridPane>
+         </top>
+         <center>
+            <WebView fx:id="webviewforechart" prefHeight="150.0" prefWidth="150.0" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin></WebView>
+         </center>
+         <left>
+            <GridPane fx:id="gridpand_left" style="-fx-background-color: #CCFFCC;" BorderPane.alignment="CENTER">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Button fx:id="btn_echatview" mnemonicParsing="false" onAction="#btn_echatview_Action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="Echart" />
+                   <Button fx:id="btn_delete" mnemonicParsing="false" onAction="#btn_delete" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="删除text记录" GridPane.rowIndex="1" />
+               </children>
+            </GridPane>
+         </left>
+         <bottom>
+            <Pane fx:id="pane_bottom" prefHeight="27.0" prefWidth="600.0" style="-fx-background-color: #3366FF;" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin>
+               <children>
+                  <Label fx:id="label_id" layoutX="55.0" layoutY="6.0" text="Label" />
+               </children>
+            </Pane>
+         </bottom>
+         <right>
+            <GridPane prefWidth="200.0" style="-fx-background-color: #666666;" BorderPane.alignment="CENTER">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <TextArea fx:id="test_console" prefHeight="300.0" prefWidth="200.0" wrapText="true">
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <font>
+                        <Font size="13.0" />
+                     </font></TextArea>
+               </children>
+            </GridPane>
+         </right>
+      </BorderPane>
+   </children>
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+   </padding>
+</AnchorPane>

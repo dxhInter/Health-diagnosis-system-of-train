@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="IDT" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/artifacts/IDT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/ECharts-3.0.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/IDT.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/IDT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/IDT.jnlp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/META-INF/highway.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/ECharts-3.0.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT.jnlp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/IDT.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/IDT.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/app/ECharts-3.0.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/app/IDT.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/app/IDT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/app/gson-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/app/mysql-connector-java-5.1.48-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/msvcp120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/msvcr100.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/msvcr120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/packager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/THIRDPARTYLICENSEREADME-JAVAFX.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/THIRDPARTYLICENSEREADME.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/Welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/JAWTAccessBridge-32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/JavaAccessBridge-32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/WindowsAccessBridge-32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/attach.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/awt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/bci.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/client/Xusage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/client/classes.jsa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/client/jvm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/dcpr.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/decora_sse.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/deploy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/dt_shmem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/dt_socket.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/fontmanager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/fxplugins.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/glass.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/glib-lite.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/gstreamer-lite.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/hprof.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/instrument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/j2pcsc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/j2pkcs11.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jaas_nt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/java.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/java_crw_demo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/javafx_font.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/javafx_font_t2k.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/javafx_iio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jawt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jdwp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jfr.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jfxmedia.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jfxwebkit.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jli.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jsdt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jsound.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/jsoundds.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/kcms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/lcms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/management.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/mlib_image.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/msvcp120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/msvcr100.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/msvcr120.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/nio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/npt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/plugin2/msvcr100.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/plugin2/npjp2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/prism_common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/prism_d3d.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/prism_sw.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/resource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/sawindbg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/server/Xusage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/server/jvm.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/splashscreen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/sunec.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/sunmscapi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/t2k.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/unpack.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/verify.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/w2k_lsa_auth.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/bin/zip.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/accessibility.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/calendars.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/charsets.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/classlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/cmm/CIEXYZ.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/cmm/GRAY.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/cmm/LINEAR_RGB.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/cmm/PYCC.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/cmm/sRGB.pf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/content-types.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/currency.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/access-bridge-32.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/cldrdata.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/dnsns.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/jaccess.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/jfxrt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/localedata.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/meta-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/nashorn.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/sunec.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/sunjce_provider.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/sunmscapi.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/sunpkcs11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/ext/zipfs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/flavormap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fontconfig.bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fontconfig.properties.src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fonts/LucidaBrightDemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fonts/LucidaBrightDemiItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fonts/LucidaBrightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fonts/LucidaBrightRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fonts/LucidaSansDemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fonts/LucidaSansRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fonts/LucidaTypewriterBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/fonts/LucidaTypewriterRegular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/hijrah-config-umalqura.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/i386/jvm.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/images/cursors/cursors.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/images/cursors/invalid32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/images/cursors/win32_CopyDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/images/cursors/win32_CopyNoDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/images/cursors/win32_LinkDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/images/cursors/win32_LinkNoDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/images/cursors/win32_MoveDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/images/cursors/win32_MoveNoDrop32x32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/javafx.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/javaws.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/jce.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/jfr.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/jfr/default.jfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/jfr/profile.jfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/jfxswt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/jsse.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/jvm.hprof.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/management-agent.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/management/jmxremote.access" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/management/jmxremote.password.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/management/management.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/management/snmp.acl.template" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/meta-index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/net.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/psfont.properties.ja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/psfontj2d.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/resources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/rt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/US_export_policy.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/blacklist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/blacklisted.certs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/cacerts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/java.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/java.security" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/javaws.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/local_policy.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/security/trusted.libraries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/sound.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/tzdb.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/IDT/runtime/lib/tzmappings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/gson-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/bundles/mysql-connector-java-5.1.48-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/gson-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/mysql-connector-java-5.1.48-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Database/Creatdatabases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Database/DBOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Database/DB_SQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Database/InitDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Database/KeyForData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Database/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/FileFounction/ForFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/FileFounction/ReadInfoForRtio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/FileFounction/StringChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/GetIpHost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/Home$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/SetUDP_form.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/home.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/home1.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/homeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Homepage/udphelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/CheckModulear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/DataTypeExchange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/ERRInfoObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/ErrNumberObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/HeadInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/InterfaceToEchart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/ModularNodeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/NodeByteInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/ParseMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/Ratio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/MessageOpen/UnitNodeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/UdpService/ClientImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/UdpService/ServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/UdpService/UdpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/UdpService/UdpService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/AccessData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/NodeEchartInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/Option_Ratio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/homephoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/homephotonew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/la.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/echartpackage/la_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/myLineChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/myLineChartReaTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/slide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/slide_err_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/echartpackage/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/errappear/ErrFormControoler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/errappear/Errform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/errappear/ErrorCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/errappear/ErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/errappear/ErrorItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/errappear/err_form.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/errappear/not1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/image/before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/image/first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/image/last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/image/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/resources/homephoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/resources/housess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IDT/sample/samples.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/artifacts/IDT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/META-INF/highway.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Database/Creatdatabases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Database/DBOperate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Database/DB_SQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Database/InitDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Database/KeyForData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Database/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/FileFounction/ForFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/FileFounction/ReadInfoForRtio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/FileFounction/StringChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/GetIpHost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/Home$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/SetUDP_form.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/home.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/home1.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/homeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Homepage/udphelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/CheckModulear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/DataTypeExchange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/ERRInfoObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/ErrNumberObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/HeadInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/InterfaceToEchart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/ModularNodeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/NodeByteInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/ParseMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/Ratio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/MessageOpen/UnitNodeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/UdpService/ClientImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/UdpService/ServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/UdpService/UdpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/UdpService/UdpService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/AccessData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/NodeEchartInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/Option_Ratio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/homephoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/homephotonew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/la.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/myLineChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/myLineChartReaTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/slide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/slide_err_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/echartpackage/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/errappear/ErrFormControoler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/errappear/Errform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/errappear/ErrorCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/errappear/ErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/errappear/ErrorItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/errappear/err_form.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/errappear/not1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/image/before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/image/first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/image/last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/image/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/resources/homephoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/resources/housess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/highway/sample/samples.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/artifacts/IDT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/highway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/META-INF/highway.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/highway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/lib/ECharts-3.0.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/lib/gson-2.8.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/lib/mysql-connector-java-5.1.48-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Database/DB_SQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Database/KeyForData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/FileFounction/ForFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Homepage/homeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/MessageOpen/CheckModulear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/MessageOpen/DataTypeExchange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/MessageOpen/ERRInfoObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/MessageOpen/ErrNumberObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/MessageOpen/ModularNodeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/MessageOpen/Ratio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/MessageOpen/UnitNodeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/echartpackage/AccessData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/echartpackage/NodeEchartInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/echartpackage/Option_Ratio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/errappear/ErrFormControoler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/errappear/Errform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/errappear/ErrorCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/errappear/ErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/sample/errappear/ErrorItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/artifacts/IDT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/Homepage/SetUDP_form.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/Homepage/home.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/Homepage/home1.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/echartpackage/background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/echartpackage/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/echartpackage/homephoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/echartpackage/homephotonew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/echartpackage/la.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/echartpackage/slide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/echartpackage/slide_err_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/echartpackage/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/errappear/err_form.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/errappear/not1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/image/before.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/image/first.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/image/last.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/image/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/resources/homephoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/resources/housess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/highway/src/sample/samples.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Database/Creatdatabases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Database/Creatdatabases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Database/DBOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Database/DBOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Database/DB_SQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Database/DB_SQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Homepage/homeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Homepage/homeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/MessageOpen/CheckModulear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/MessageOpen/CheckModulear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/MessageOpen/NodeByteInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/MessageOpen/NodeByteInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/UdpService/UdpService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/UdpService/UdpService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/echartpackage/AccessData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/echartpackage/AccessData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/echartpackage/myLineChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/echartpackage/myLineChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/echartpackage/myLineChartReaTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/echartpackage/myLineChartReaTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/echartpackage/slide_err_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/echartpackage/slide_err_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/echartpackage/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/errappear/ErrFormControoler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/errappear/ErrFormControoler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/errappear/ErrorCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/errappear/ErrorCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/errappear/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/errappear/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/errappear/err_form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/errappear/err_form.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1d4kPKpQBzx4vqpVplV0L5720RE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sample/echartpackage/slide_err_test.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/sample/echartpackage/slide_err_test.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wzhzz\IdeaProjects\highway\src\sample\Homepage" />
+      <recent name="C:\Users\wzhzz\IdeaProjects\highway\src\sample\resources" />
+      <recent name="C:\Users\wzhzz\IdeaProjects\highway\src\sample\echartpackage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wzhzz\IdeaProjects\highway\src\sample\echartpackage" />
+      <recent name="C:\Users\wzhzz\IdeaProjects\highway\lib" />
+      <recent name="C:\Users\wzhzz\IdeaProjects\highway\src\sample\UdpService" />
+      <recent name="C:\Users\wzhzz\IdeaProjects\highway\src\sample\FileFounction" />
+      <recent name="C:\Users\wzhzz\IdeaProjects\highway\src\sample\Homepage" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sample.FileFounction" />
+      <recent name="sample.errappear" />
+      <recent name="sample.Database" />
+      <recent name="sample.Homepage" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sample.echartpackage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.App" />
+      <module name="highway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.Homepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.FileFounction.ForFile" />
+      <module name="highway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.FileFounction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="highway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.Homepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.UdpService.UdpClient" />
+      <module name="highway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.Homepage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXApp.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JavaFXApp.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaFXApp/bundles/JavaFXApp.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.ForFile" />
+      <item itemvalue="Application.UdpClient" />
+      <item itemvalue="JAR Application.JavaFXApp.jar" />
+      <item itemvalue="JAR Application.JavaFXApp.jar (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.UdpClient" />
+        <item itemvalue="JAR Application.JavaFXApp.jar (1)" />
+        <item itemvalue="JAR Application.JavaFXApp.jar" />
+        <item itemvalue="Application.ForFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1591691731135" duration="12286000" />
+      <workItem from="1591754464597" duration="6088000" />
+      <workItem from="1591931774856" duration="28417000" />
+      <workItem from="1592108533121" duration="620000" />
+      <workItem from="1592118028018" duration="1116000" />
+      <workItem from="1595295602827" duration="2225000" />
+      <workItem from="1596771203788" duration="3650000" />
+      <workItem from="1596845393318" duration="9573000" />
+      <workItem from="1596938619670" duration="18342000" />
+      <workItem from="1597105920576" duration="22104000" />
+      <workItem from="1597197427365" duration="11612000" />
+      <workItem from="1597209706376" duration="4388000" />
+      <workItem from="1597367395061" duration="15020000" />
+      <workItem from="1597454156846" duration="14454000" />
+      <workItem from="1597538975753" duration="12999000" />
+      <workItem from="1597580999648" duration="3549000" />
+      <workItem from="1598842266072" duration="2432000" />
+      <workItem from="1599301566581" duration="694000" />
+      <workItem from="1599543305297" duration="14891000" />
+      <workItem from="1599617604159" duration="524000" />
+      <workItem from="1599707236070" duration="13497000" />
+      <workItem from="1599783927479" duration="30220000" />
+      <workItem from="1599829681286" duration="2459000" />
+      <workItem from="1599874429240" duration="4728000" />
+      <workItem from="1599890418373" duration="4033000" />
+      <workItem from="1599961061289" duration="4688000" />
+      <workItem from="1600150294321" duration="7579000" />
+      <workItem from="1600179208944" duration="3770000" />
+      <workItem from="1600226229108" duration="6097000" />
+      <workItem from="1600302406131" duration="12342000" />
+      <workItem from="1600398371477" duration="1026000" />
+      <workItem from="1600753571436" duration="12578000" />
+      <workItem from="1600778705259" duration="7520000" />
+      <workItem from="1601256430963" duration="36212000" />
+      <workItem from="1601361282201" duration="10464000" />
+      <workItem from="1601374409981" duration="2063000" />
+      <workItem from="1601384774521" duration="622000" />
+      <workItem from="1601693090909" duration="339000" />
+      <workItem from="1601693540490" duration="899000" />
+      <workItem from="1601799448877" duration="7469000" />
+      <workItem from="1601894544275" duration="535000" />
+      <workItem from="1601898018077" duration="1757000" />
+      <workItem from="1601900512109" duration="2250000" />
+      <workItem from="1601948475409" duration="255000" />
+      <workItem from="1601949385688" duration="698000" />
+      <workItem from="1601955588405" duration="1727000" />
+      <workItem from="1601981034904" duration="159000" />
+      <workItem from="1601981309366" duration="780000" />
+      <workItem from="1601985061752" duration="563000" />
+      <workItem from="1601986766453" duration="92000" />
+      <workItem from="1601987340446" duration="71000" />
+      <workItem from="1602066507609" duration="2077000" />
+      <workItem from="1602069722044" duration="2554000" />
+      <workItem from="1602077013670" duration="5797000" />
+      <workItem from="1602124359614" duration="1810000" />
+      <workItem from="1602155131070" duration="2500000" />
+      <workItem from="1602324945858" duration="466000" />
+      <workItem from="1602421704867" duration="631000" />
+      <workItem from="1602422576662" duration="5400000" />
+      <workItem from="1602588488059" duration="1972000" />
+      <workItem from="1602591616055" duration="9414000" />
+      <workItem from="1602644523724" duration="1459000" />
+      <workItem from="1602660418574" duration="3580000" />
+      <workItem from="1602684684893" duration="5286000" />
+      <workItem from="1602730988411" duration="2708000" />
+      <workItem from="1602749921229" duration="4609000" />
+      <workItem from="1602758911521" duration="319000" />
+      <workItem from="1602773140349" duration="2376000" />
+      <workItem from="1602838671663" duration="1104000" />
+      <workItem from="1603251207674" duration="311000" />
+      <workItem from="1603610495989" duration="15209000" />
+      <workItem from="1603633564815" duration="1195000" />
+      <workItem from="1603849444180" duration="16782000" />
+      <workItem from="1603876821543" duration="829000" />
+      <workItem from="1603939282683" duration="2246000" />
+      <workItem from="1604372792716" duration="1221000" />
+      <workItem from="1604473400899" duration="604000" />
+      <workItem from="1604576849309" duration="744000" />
+      <workItem from="1604806571783" duration="2202000" />
+      <workItem from="1604898979022" duration="2118000" />
+      <workItem from="1604974277606" duration="917000" />
+      <workItem from="1604976421913" duration="110000" />
+      <workItem from="1604997545563" duration="23000" />
+      <workItem from="1605517231904" duration="1278000" />
+      <workItem from="1605597966022" duration="1239000" />
+      <workItem from="1605599249023" duration="2707000" />
+      <workItem from="1605679985963" duration="738000" />
+      <workItem from="1606113551943" duration="478000" />
+      <workItem from="1606230733308" duration="220000" />
+      <workItem from="1606312839514" duration="120000" />
+      <workItem from="1608689277422" duration="1432000" />
+      <workItem from="1619534664117" duration="616000" />
+      <workItem from="1620370398211" duration="3485000" />
+      <workItem from="1620455407166" duration="21941000" />
+      <workItem from="1620550917602" duration="3879000" />
+      <workItem from="1620562720108" duration="3295000" />
+      <workItem from="1620568628953" duration="59000" />
+      <workItem from="1620570487907" duration="16766000" />
+      <workItem from="1620648123999" duration="3581000" />
+      <workItem from="1620654113880" duration="312000" />
+      <workItem from="1620887875392" duration="39000" />
+      <workItem from="1620961599309" duration="181000" />
+      <workItem from="1620962027605" duration="82000" />
+      <workItem from="1620963375659" duration="234000" />
+      <workItem from="1622029096023" duration="58000" />
+      <workItem from="1622681176723" duration="8752000" />
+      <workItem from="1622971188374" duration="14926000" />
+      <workItem from="1623079169399" duration="18513000" />
+      <workItem from="1624433857376" duration="735000" />
+      <workItem from="1624442875356" duration="26000" />
+      <workItem from="1624516475423" duration="52103000" />
+      <workItem from="1626656697835" duration="19686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1626688853609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="2131" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625046318528" />
+    <state x="544" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1626688853609" />
+    <state x="1984" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1624846102310">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1984" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1624846102310" />
+    <state x="517" y="223" width="350" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620565966271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="223" width="350" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1620565966271" />
+    <state x="526" y="235" width="321" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1622704044787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="2105" y="336" width="331" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620629839466" />
+    <state x="526" y="235" width="321" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1622704044787" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1626691353122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1626691353122" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1626691280650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1620648187797" />
+    <state x="2017" y="170" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620455839292" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626691280650" />
+    <state width="1323" height="101" key="GridCell.Tab.0.bottom" timestamp="1626691717963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1623165955493" />
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625046015641" />
+    <state width="1323" height="101" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1626691717963" />
+    <state width="1323" height="101" key="GridCell.Tab.0.center" timestamp="1626691717962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1623165955492" />
+    <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625046015640" />
+    <state width="1323" height="101" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1626691717962" />
+    <state width="1323" height="101" key="GridCell.Tab.0.left" timestamp="1626691717962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1623165955492" />
+    <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625046015640" />
+    <state width="1323" height="101" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1626691717962" />
+    <state width="1323" height="101" key="GridCell.Tab.0.right" timestamp="1626691717963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1623165955492" />
+    <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625046015640" />
+    <state width="1323" height="101" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1626691717963" />
+    <state width="1323" height="148" key="GridCell.Tab.1.bottom" timestamp="1626689950431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625043716902" />
+    <state width="1323" height="148" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1626689950431" />
+    <state width="1323" height="148" key="GridCell.Tab.1.center" timestamp="1626689950431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625043716901" />
+    <state width="1323" height="148" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1626689950431" />
+    <state width="1323" height="148" key="GridCell.Tab.1.left" timestamp="1626689950430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625043716901" />
+    <state width="1323" height="148" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1626689950430" />
+    <state width="1323" height="148" key="GridCell.Tab.1.right" timestamp="1626689950431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625043716901" />
+    <state width="1323" height="148" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1626689950431" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1620568681368">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620568681368" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1620459090743">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620459090743" />
+    <state x="93" y="124" width="1182" height="516" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1626690120963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="124" width="1182" height="516" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1623164137165" />
+    <state x="1511" y="200" width="1662" height="738" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1620632746162" />
+    <state x="93" y="124" width="1182" height="516" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1626690120963" />
+    <state x="381" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1626656715860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1620654129566" />
+    <state x="1902" y="269" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1624516531696" />
+    <state x="381" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1626656715860" />
+    <state x="1985" y="170" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624869639452">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1985" y="170" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1624869639452" />
+    <state x="367" y="97" width="632" height="534" key="find.popup" timestamp="1623048552881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="97" width="632" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1623048552881" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1625039123362">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1625039123362" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Database/DBOperate.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/Database/DBOperate.java</url>
+          <line>288</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/errappear/ErrFormControoler.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/errappear/ErrFormControoler.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/echartpackage/myLineChart.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/echartpackage/myLineChart.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/echartpackage/myLineChart.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sample/echartpackage/myLineChart.java</url>
+          <line>58</line>
+          <properties class="sample.echartpackage.myLineChart" method="getdata_Fornode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Option_Ratio.isOpenautoAxis()" language="JAVA" custom="javax.swing.text.html.Option" />
+        <watch expression="Option_Ratio.max_Y" language="JAVA" />
+        <watch expression="stmt" language="JAVA" />
+        <watch expression="((JDBC4Connection)((JDBC42ResultSet)rset).connection).hostPortPair" language="JAVA" custom="com.mysql.jdbc.JDBC4Connection,com.mysql.jdbc.JDBC42ResultSet" />
+        <watch expression="rset" language="JAVA" />
+        <watch expression="((ErrCodeNode)((HashMap.Node)map.entrySet().toArray()[40]).getValue()).A_error_code" custom="sample.errappear.ErrCodeNode,java.util.HashMap.Node" />
+        <watch expression="ErrorCode.getMap()" language="JAVA" />
+        <watch expression="map1.entrySet().toArray()[0]" />
+        <watch expression="ErrorCode.Is_err_check_open" language="JAVA" />
+        <watch expression="Queue_Err_Up.list" language="JAVA" custom="sample.errappear.Queue_Err_Up" />
+        <watch expression="pm.getNodeByteInfo()[i].getUno().getErrorStr()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/highway$UdpClient.ic" NAME="UdpClient Coverage Results" MODIFIED="1596845690605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sample.UdpService.*</FILTER>
+    </SUITE>
+  </component>
+</project>

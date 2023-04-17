@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="IDT">
+    <output-path>$PROJECT_DIR$/out/artifacts/IDT</output-path>
+    <root id="root">
+      <element id="library" level="project" name="lib" />
+      <element id="module-output" name="highway" />
+    </root>
+  </artifact>
+</component>

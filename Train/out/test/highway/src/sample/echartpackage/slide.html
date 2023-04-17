@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="referrer" content="never">
+    <meta charset="utf-8">
+    <title>节点信息</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.min.js"></script>
+    <style type="text/css">
+        #mian {
+            margin-bottom: 20px;
+        }
+
+        #page {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+<main>
+
+    <!-- <button onclick="sendToJava();">加载</button>
+     <button onclick="randomData();">添加数据</button>-->
+</main>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<div id="main0" style="height:400%; width:100%;"></div>
+<div id="page" margin-top="60px;">
+    <!-- 分页布局-->
+    <table align="center">
+        <tr class="page-font">
+            <td>
+                <button width="30px" height="30px" class="beforePage" onclick="page_click(0)">首页</button>
+            </td>
+            <td>
+                <button width="30px" height="30px" class="beforePage" onclick="page_click(-1)">上一页</button>
+            </td>
+            <td>&nbsp;&nbsp;|&nbsp;第<input type="text" value="1" style="width:20px; height:20px;" id="currentPage">页
+            </td>
+            <td>&nbsp;&nbsp;&nbsp;共<input type="button" value="1" id="totalPage" readonly="readonly">页&nbsp;|&nbsp;&nbsp;
+            </td>
+            <td>
+                <button width="30px" height="30px" class="beforePage" onclick="page_click(1)">下一页</button>
+            </td>
+            <td>
+                <button width="30px" height="30px" class="beforePage" onclick="page_click(2)">尾页</button>
+            </td>
+            <td>
+                <button width="30px" height="30px" class="beforePage" onclick="page_click(3)">跳转</button>
+            </td>
+        </tr>
+    </table>
+</div>
+<script type="text/javascript">
+    //let option1, option2, option3, option4, option6;
+    var node_id = 0;
+    var myChart;
+    var option
+
+    function sendToJava() {
+        document.getElementById("totalPage").setAttribute("value", totalPage);
+        mlrt.getdata_Fornode(1);
+        if (node_id < 6 && node_id >= 0) {
+            // if (node_id === 4) {
+            //     myChart= echarts.init(document.getElementById('main0'), null, {renderer: 'svg'});
+            //     option= JSON.parse(mlrt.getLineChartO(1, (node_id + 2).toString()));//节点
+            // } else {
+            //      myChart = echarts.init(document.getElementById('main0'), null, {renderer: 'svg'});
+            //      option = JSON.parse(mlrt.getLineChartO(1, (node_id + 1).toString()));//节点
+            //
+            // }
+            myChart = echarts.init(document.getElementById('main0'), null, {renderer: 'svg'});
+            option = JSON.parse(mlrt.getLineChartO(1, (node_id + 1).toString()));//节点
+
+            myChart.clear();
+            myChart.showLoading({
+                text: '正在努力的读取数据中...'
+            });
+
+            myChart.setOption(option);
+            myChart.hideLoading();
+        }
+    };
+    // 必须加JOSN.parse 转换数据类型
+    //var
+
+
+    // 载入图表
+    //loadChart();
+    var k = 0;
+
+    function randomData() {
+        //for (var i = 0; i < 3; i++) {
+        var i = node_id;
+        if (i < 6 && i >= 0) {
+            if (k % 2 == 0) {
+                k = 99;
+            } else {
+                k = 0
+            }
+            if (i !== 4) {
+                var data = unnode.getmn(i).getA_analog();
+                // var mychart = echarts.getInstanceByDom(document.getElementById('main0'));
+                // var option = mychart.getOption();
+                option.xAxis[0].data.push(time_st);
+                if (option.xAxis[0].data.length > num_data_every) {
+                    option.xAxis[0].data.shift();
+                }
+                for (var j = 0; j < data.length; j++) {
+                    if (option.series[j].data.length > num_data_every) {
+                        option.series[j].data.shift();
+                    }
+                    if (Math.abs(data[j]) === 0) {
+                        option.series[j].data.push(Math.abs(data[j]) + 0.1);
+                    } else {
+                        option.series[j].data.push(Math.abs(data[j]));
+                    }
+
+                    //option.series[j].data.push(k);
+                }
+                myChart.setOption(option, true, false);
+            } else {
+                if (k % 2 == 0) {
+                    k = 0;
+                } else {
+                    k = 99
+                }
+                var data = unnode.getmn(i).getA_analog();
+                // var mychart = echarts.getInstanceByDom(document.getElementById('main0'));
+                // var option = mychart.getOption();
+                option.xAxis[0].data.push(time_st);
+                if (option.xAxis[0].data.length > num_data_every) {
+                    option.xAxis[0].data.shift();
+                }
+                for (var j = 0; j < 1; j++) {//设置节点5显示其中一个传感器
+                    if (option.series[j].data.length > num_data_every) {
+                        option.series[j].data.shift();
+                    }
+                    if (Math.abs(data[j]) === 0) {
+                        option.series[j].data.push(Math.abs(data[j]) + 0.1);
+                    } else {
+                        option.series[j].data.push(Math.abs(data[j]));
+                    }
+                    // option.series[j].data.push(k);
+                }
+                myChart.setOption(option, true, false);
+            }
+        }
+    }
+
+    function nextlopage(kkk) {
+        node_id = kkk - 1;
+        sendToJava();
+    };
+
+    function page_click(item) {
+        var currpage = parseInt(document.getElementById("currentPage").value);
+        var oldcurrpage = currpage;
+        if (item === 0) {
+            document.getElementById("currentPage").value = 1;
+            currpage = 1;
+        } else if (item === -1 && currpage > 1) {
+            document.getElementById("currentPage").value = --currpage;
+        } else if (item === 1 && currpage < totalPage) {
+            document.getElementById("currentPage").value = ++currpage;
+        } else if (item === 2) {
+            document.getElementById("currentPage").value = totalPage;
+            currpage = totalPage;
+        } else if (item === 3) {
+            if (currpage > totalPage && currpage <= 0) {
+                currpage = 0;
+            }
+            nextlopage(currpage);
+        }
+        if (oldcurrpage !== currpage) {
+            nextlopage(currpage);
+        }
+    }
+
+    // 使用刚指定的配置项和数据显示图表。
+    //myChart.setOption(option);
+</script>
+</body>
+</html>

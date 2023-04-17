@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: sample.App
+Class-Path: mysql-connector-java-5.1.48-bin.jar mysql-connector-java-5.1
+ .48-bin.jar
+

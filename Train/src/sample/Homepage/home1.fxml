@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.web.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Homepage.homeController">
+   <children>
+      <BorderPane id="home_border" layoutX="-1.0" layoutY="1.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="5.0">
+         <center>
+            <WebView fx:id="webviewforechart" prefHeight="-1.0" prefWidth="-1.0" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin></WebView>
+         </center>
+         <left>
+            <GridPane fx:id="gridpand_left" style="-fx-background-color: #3333FF;" BorderPane.alignment="CENTER">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Button fx:id="btn_echatview" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#btn_echatview_Action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="历史记录" GridPane.rowIndex="1">
+                     <GridPane.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" />
+                     </GridPane.margin>
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font></Button>
+                   <Button fx:id="btn_delete" mnemonicParsing="false" onAction="#btn_delete" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="删除text记录" GridPane.rowIndex="5" />
+                   <Button fx:id="btn_now_date" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#btn_echat_dataNow_Action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="实时显示" GridPane.rowIndex="2">
+                     <GridPane.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" />
+                     </GridPane.margin>
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font></Button>
+                   <Button fx:id="btn_server" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#btn_server_action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="Udp开关" GridPane.rowIndex="3">
+                     <GridPane.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" />
+                     </GridPane.margin>
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="btn_fristpage" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#btn_fristpage_Action" prefHeight="23.0" prefWidth="101.0" style="-fx-background-color: linear-gradient(to right,#00fffc,#fff600);" text="首页">
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font>
+                     <GridPane.margin>
+                        <Insets bottom="5.0" left="5.0" right="5.0" />
+                     </GridPane.margin>
+                  </Button>
+               </children>
+            </GridPane>
+         </left>
+         <bottom>
+            <Pane fx:id="pane_bottom" prefHeight="27.0" prefWidth="600.0" style="-fx-background-color: #3366FF;" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin>
+               <children>
+                  <Label fx:id="label_id" layoutX="55.0" layoutY="6.0" text="Label" />
+               </children>
+            </Pane>
+         </bottom>
+         <right>
+            <GridPane prefWidth="200.0" style="-fx-background-color: #666666;" BorderPane.alignment="CENTER">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <TextArea fx:id="test_console" prefHeight="300.0" prefWidth="200.0" wrapText="true">
+                     <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                     </padding>
+                     <font>
+                        <Font size="13.0" />
+                     </font></TextArea>
+               </children>
+            </GridPane>
+         </right>
+         <top>
+            <GridPane prefHeight="80.0" style="-fx-background-color: #3333FF;" BorderPane.alignment="CENTER">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" valignment="CENTER" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" text="铁路干线重载货运机车在线智能故障诊断装置" textFill="#f0f1f2">
+                     <font>
+                        <Font name="System Bold" size="36.0" />
+                     </font></Label>
+               </children>
+            </GridPane>
+         </top>
+      </BorderPane>
+   </children>
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+   </padding>
+</AnchorPane>
