@@ -1,7 +1,7 @@
 # Health diagnosis of train
 
 Programming language: JavaFX\
-Project time: July06 2021\
+Project time: July06 2021
 
 # 面向重载货运机车健康诊断的数据采集及可视化方法的设计及实现
 
